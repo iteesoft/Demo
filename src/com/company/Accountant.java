@@ -8,4 +8,3 @@ public class Accountant extends Staffs {
      System.out.println(staffs.getEmployeeName() + " will be paid today.");
  }
 }
-daJAVAcl
